@@ -1,12 +1,13 @@
 Automation scripts for the voice assistant tasks.
 
-1. Play Music
-2. cpu usage
-3. Setting remainder
-4. open web browser.
-5. searching specific file/dir
-6. scheduling reboot/ shutdown
-7. removing temp files
-8. image compressing/ enlarging
-9. removing extracted zip/tar files to trash.
-10. compose an email.  
+* Play Music
+* check for internet connection.
+* cpu usage
+* Setting reminder
+* open web browser.
+* searching specific file/dir
+* scheduling reboot/ shutdown
+* removing temp files
+* image compressing/ enlarging
+* removing extracted zip/tar files to trash.
+* compose an email.  
